@@ -1,4 +1,4 @@
-![HeaderImage](https://github.com/QuantitativeBytes/QuantitativeBytes/PageHeader_Small_v2.png)
+![HeaderImage](https://github.com/QuantitativeBytes/QuantitativeBytes/blob/4112bde637a7b6c0c61eca6c9fe426fc76d8998a/PageHeader_Small_v2.png)
 
 ### Hi there 👋
 
