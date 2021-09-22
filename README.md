@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/QuantitativeBytes/<OWNER>/<OWNER>/PageHeader_Small_v2.png "Header")](https://www.youtube.com/c/QuantitativeBytes)
+[![Header](https://raw.githubusercontent.com/QuantitativeBytes/QuantitativeBytes/QuantitativeBytes/PageHeader_Small_v2.png "Header")](https://www.youtube.com/c/QuantitativeBytes)
 
 ### Hi there 👋
 
