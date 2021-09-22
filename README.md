@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/QuantitativeBytes/<OWNER>/<OWNER>/PageHeader_Small_v2.png "Header")](https://www.youtube.com/c/QuantitativeBytes)
+
 ### Hi there 👋
 
 I firmly believe that no problem can be solved unless it can first be measured. I specialize in writing software to make quantitative measurements from multi-dimensional raw data, bringing new intelligence to clinical and research problem solving. I primarily code in Matlab, C++ and Python, using whichever tool is most appropriate to the problem at hand. Working at the boundary between data science and software engineering, I have extensive experience of all aspects of research software development, ranging from the design and implementation of fundamental image and signal processing algorithms, through user-interface design and implementation, to statistical analysis and reporting.
