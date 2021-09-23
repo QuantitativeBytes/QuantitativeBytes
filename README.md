@@ -6,7 +6,7 @@ I firmly believe that no problem can be solved unless it can first be measured. 
 
 I am a passionate believer in the value of sharing my enthusiasm for and knowledge of science and engineering to educate and inspire others. In my spare time I run the QuantitativeBytes YouTube channel for exactly this purpose, with a focus on scientific computing. I create educational content and tutorials on a variety of topics with an emphasis on practical implementation, focusing mostly on development in C++ and Python. You can check it out at the link below:
 
-:movie_camera: [QuantitativeBytes](https://www.youtube.com/c/QuantitativeBytes)
+:movie_camera: [QuantitativeBytes YouTube Channel](https://www.youtube.com/c/QuantitativeBytes)
 
 <!--
 **QuantitativeBytes/QuantitativeBytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
